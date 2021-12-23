@@ -1,0 +1,32 @@
+_repo: Memoirs-and-Services-of-the-Eighty-third-Regiment-County-of-Dublin-from-1793-to-1907-Includin__66945
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bray, Edward William
+    gutenberg_agent_id: '54044'
+    url: http://www.gutenberg.org/2009/agents/54044
+description: ''
+gutenberg_issued: '2021-12-15'
+identifiers:
+  gutenberg: '66945'
+language: en
+pgterms:marc904:
+- https://babel.hathitrust.org/cgi/pt?id=nyp.33433044650996
+- seq=13
+- view=1up
+pgterms:marc905: 20181214235615bray
+pgterms:marc906: '1908'
+pgterms:marc907: GB
+production_note: Brian Coe, Karin Spence and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: United Kingdom :Hugh Rees Ltd.,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Memoirs and Services of the Eighty-third Regiment, County of Dublin, from
+  1793 to 1907: Including the Campaigns of the Regiment in the West Indies, Africa,
+  the Peninsula, Ceylon, Canada, and India'
+url: http://www.gutenberg.org/ebooks/66945
